@@ -7,7 +7,7 @@ I secretly wish I could seriously code in C++ though.
 
 - 💞️ I’m looking to collaborate on ... any interesting project, as long as it ends up bringing value to people and to the Planet (and ultimately the Cosmos) I'm in!
 
-- 📫 How to reach me ... Through here or by email at: vinicio.mpv.oliveira@gmail.com ...alternatively shout my name three times, we never know...
+- 📫 How to reach me ... Through here or by email at: vinicio.miguel@tutamail.com ...alternatively shout my name three times, we never know...
 
 <!---
 ViniMig/ViniMig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
